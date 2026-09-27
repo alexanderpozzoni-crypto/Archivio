@@ -1,0 +1,5 @@
+Dipendenze principali:
+- ML Kit Text Recognition bundled: com.google.mlkit:text-recognition:16.0.1
+- PdfBox-Android: com.tom-roush:pdfbox-android:2.0.27.0
+- AndroidX AppCompat 1.7.0
+- AndroidX DocumentFile 1.0.1
